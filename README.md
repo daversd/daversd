@@ -12,3 +12,5 @@ __*David Dória*__  é ~~arquiteto e urbanista~~, interessado na convergência d
 
 **Interesses**: _música terrível, maravilhosa e alta; comida vegetariana; destruição do fascismo; cachorros compridos; matemática recreacional; computação recreacional; faça-você-mesmo._  
 **Contato**: _https://daviddoria.xyz/ [@doria.david](https://www.instagram.com/doria.david/) [facebook](https://www.facebook.com/arq.david.doria) [linkedin](https://www.linkedin.com/in/david-d%C3%B3ria-253bb9123/) [github](https://github.com/daversd)_
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daversd&show_icons=true&locale=en&layout=compact" alt="elenichas" /></p>
